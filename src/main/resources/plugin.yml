@@ -1,4 +1,4 @@
-name: XeXNoJoin
-version: ${project.version}-b${BUILD_NUMBER}
+name: ${project.name}
+version: ${project.version}
 description: So the players can only connect using BungeeCord.
 author: Aussie_Jhawking
