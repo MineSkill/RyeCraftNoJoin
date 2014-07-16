@@ -1,4 +1,5 @@
 name: ${project.name}
 version: ${project.version}
+main: com.xexnetwork.nojoin.NoJoin
 description: So the players can only connect using BungeeCord.
 author: Aussie_Jhawking
