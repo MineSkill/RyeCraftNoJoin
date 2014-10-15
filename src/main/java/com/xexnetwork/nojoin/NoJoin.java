@@ -10,7 +10,7 @@ import org.bukkit.configuration.file.YamlConfiguration;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class NoJoin extends JavaPlugin{
-	public static String TAG = ChatColor.GRAY + "[" +ChatColor.YELLOW + "XeXNetwork" + ChatColor.GRAY + " ] " + ChatColor.YELLOW + "";
+	public static String TAG = ChatColor.DARK_RED + "[" ChatColor.RED + "RyeCraft" + ChatColor.DARK_RED + "]" + ChatColor.YELLOW + " ";
 	public List<String> ips;
 	public List<String> pardons;
 	
